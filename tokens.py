@@ -1,2 +1,2 @@
-token = 'ODU3NTY2NDgyMjc0OTc1Nzg0.YNRdBg.ZbbB7wePj_rpd3YGP8rtmb1NXGs'
-
+d = 'ffdfODU3NTY2NDgyMjc0OTc1Nzg0.YNRdBg.S-NGie3Rl0gXwQhVhNwOoO8HQlE'
+token = d[2:]
