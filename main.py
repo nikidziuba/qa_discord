@@ -1,5 +1,4 @@
 import discord
-import tokens as t
 #potrzebne moduły(instaluj przez 'pip install nazwa'):
 
 #face_recognition
@@ -157,4 +156,4 @@ async def on_ready():
             await channel.send('Idzie')
             return
 
-client.run(t.token)
+client.run($TOKEN)
